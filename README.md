@@ -7,12 +7,10 @@
 
 ``` bash
 # Install mux router
-go get -u github.com/gorilla/mux
-```
+go get -u github.com/gorilla/mux 
 
-``` bash
-go build
-./go_restapi
+# Run this tool
+go run
 ```
 
 ## Endpoints
